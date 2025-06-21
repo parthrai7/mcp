@@ -1,0 +1,6 @@
+AZURE_OPENAI_API_KEY=f1bacebbbfcd45f59f4c7ef1da8584ad
+AZURE_OPENAI_ENDPOINT=https://salesiq-rnd.openai.azure.com/
+AZURE_OPENAI_MODEL=gpt-4o-mini
+AZURE_OPENAI_EMBEDDING_MODEL=text-embedding-ada-002
+AZURE_OPENAI_API_VERSION=2024-08-01-preview
+AZURE_OPENAI_DEPLOYMENT_NAME=gpt-4o-mini
